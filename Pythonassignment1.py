@@ -1,5 +1,5 @@
 # Enter first and last name
-names = input("Milka Gikunju")
+names = input("Jane Doe")
 print(names)
 print()
 # Enter your goals for this class
